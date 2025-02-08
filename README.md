@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # Uzun Bekleyiş AR Oyun Uygulaması
 
 **Uzun Bekleyiş AR Oyun Uygulaması** çocukların matematiksel becerilerini geliştirmeyi amaçlayan, eğitici ve interaktif bir artırılmış gerçeklik (AR) uygulamasıdır. TÜBİTAK'ın **Uzun Bekleyiş** kitabından esinlenerek geliştirilen bu proje, eğitimi oyunlaştırarak çocuklara eğlenceli bir öğrenme deneyimi sunar.
