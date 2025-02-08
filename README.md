@@ -41,7 +41,7 @@ Bilgi almak ve projeyi Trello'da  detaylı incelemek için ziyaret edin:
 ## 📥 APK İndir
 
 Mobil cihazınıza uygulamayı indirerek deneyimleyebilirsiniz:  
-[Uygulama APK İndir](https://drive.google.com/your-apk-download-link)
+[Uygulama APK İndir](https://raw.githubusercontent.com/elfsvc/Bekleyis/refs/heads/main/ELIFNUR_SAVICI_210541026.apk)
 
 ## 📦 Kaynak Kod
 
