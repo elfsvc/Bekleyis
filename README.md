@@ -15,8 +15,6 @@
 - **Eğitici Oyunlar**: Matematik, mantık ve problem çözme becerilerini geliştiren oyun modülleri içerir.
 - **Kullanıcı Dostu Arayüz**: Çocuklar için renkli ve sezgisel bir tasarım sunar.
 - **Geri Bildirim Mekanizmaları**: Oyun içinde puanlama ve başarı sistemleri ile öğrenme sürecini takip eder.
-- **Performans Takibi**: Çocukların gelişimini ebeveynlerin takip edebilmesini sağlayan raporlama modülü içerir.
-
 ## 🛠 Proje Yönetimi
 
 Proje geliştirme süreci **Trello** üzerinden yönetilmektedir. 
