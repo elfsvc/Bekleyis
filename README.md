@@ -56,4 +56,4 @@ Bu proje **Apache License 2.0** ile lisanslanmıştır. Daha fazla bilgi için [
 
 **Elifnur Savıcı**  
 210541026
->>>>>>> 0b80fe82b4d53dc9b16702b6f2522bfe5be1c655
+
