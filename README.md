@@ -39,7 +39,7 @@ Uygulamanın nasıl çalıştığını görmek için tanıtım videomuzu izleyeb
 ## 🌐 Proje Trello Linki
 
 Bilgi almak ve projeyi Trello'da  detaylı incelemek için ziyaret edin:
-[Yazılım Mühendisliği Güncel Konular AR Projesi Dökümantasyonu] (https://github.com/elfsvc/Bekleyis/blob/main/210541026_Elifnur%20Sav%C4%B1c%C4%B1_Raporlama.docx)
+[Yazılım Mühendisliği Güncel Konular AR Projesi Dökümantasyonu]s(https://github.com/elfsvc/Bekleyis/blob/main/210541026_Elifnur%20Sav%C4%B1c%C4%B1_Raporlama.docx)
 
 [Trello Linki](https://trello.com/b/ZArzs78b/ar-oyun-projesi)
 
