@@ -26,7 +26,7 @@ Güncellemeler ve görevlerin ilerleme durumu için proje panosuna göz atabilir
 
 Bu proje hakkında daha fazla bilgi almak için detaylı dokümantasyonumuza aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-[Yazılım Mühendisliği Güncel Konular AR Projesi Dökümantasyonu](https://raw.githubusercontent.com/elfsvc/Bekleyis/refs/heads/main/210541026_Elifnur%20Sav%C4%B1c%C4%B1_Raporlama.docx)
+[Yazılım Mühendisliği Güncel Konular Uzun Bekleyiş AR Projesi Dökümantasyonu](https://raw.githubusercontent.com/elfsvc/Bekleyis/refs/heads/main/210541026_Elifnur%20Sav%C4%B1c%C4%B1_Raporlama.docx)
 
 [Teknoloji Hazırlık Seviyesi Linki](https://docs.google.com/spreadsheets/d/1uqn7Qplz7s8VLJJDeWKfXq-Iox9nVxK1/edit?usp=sharing&ouid=112703584692783586554&rtpof=true&sd=true)
 
@@ -43,7 +43,7 @@ Uygulamanın nasıl çalıştığını görmek için tanıtım videomuzu izleyeb
 
 Bilgi almak ve projeyi Trello'da  detaylı incelemek için ziyaret edin:
 
-[Yazılım Mühendisliği Güncel Konular AR Projesi Dökümantasyonu](https://raw.githubusercontent.com/elfsvc/Bekleyis/refs/heads/main/210541026_Elifnur%20Sav%C4%B1c%C4%B1_Raporlama.docx)
+[Yazılım Mühendisliği Güncel Konular Uzun Bekleyiş AR Projesi Dökümantasyonu](https://raw.githubusercontent.com/elfsvc/Bekleyis/refs/heads/main/210541026_Elifnur%20Sav%C4%B1c%C4%B1_Raporlama.docx)
 
 [Trello Linki](https://trello.com/b/ZArzs78b/ar-oyun-projesi)
 
