@@ -31,11 +31,14 @@ Bu proje hakkında daha fazla bilgi almak için detaylı dokümantasyonumuza aş
 
 Uygulamanın nasıl çalıştığını görmek için tanıtım videomuzu izleyebilirsiniz:
 
-[Uzun Bekleyiş AR Oyun Tanıtım Videosu](https://youtube.com/shorts/MLxLFNl1by0?si=m_zqdwXczwvnP5z6)
+[Uzun Bekleyiş AR Oyun Tanıtım Videosu - Vize ](https://youtube.com/shorts/MLxLFNl1by0?si=m_zqdwXczwvnP5z6)
+[Uzun Bekleyiş AR Oyun Tanıtım Videosu - Final ](https://www.youtube.com/shorts/l1b204GOq7w)
+
 
 ## 🌐 Proje Trello Linki
 
-Bilgi almak ve projeyi Trello'da  detaylı incelemek için ziyaret edin:  
+Bilgi almak ve projeyi Trello'da  detaylı incelemek için ziyaret edin:
+[Yazılım Mühendisliği Güncel Konular AR Projesi Dökümantasyonu] (https://github.com/elfsvc/Bekleyis/blob/main/210541026_Elifnur%20Sav%C4%B1c%C4%B1_Raporlama.docx)
 [Trello Linki](https://trello.com/b/ZArzs78b/ar-oyun-projesi)
 
 ## 📥 APK İndir
